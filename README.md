@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/ekky-zainul-arifin-439981171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekky-zainul-arifin-439981171" height="30" width="40" /></a>
 <a href="https://instagram.com/ekkyzainularifin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekkyzainularifin" height="30" width="40" /></a>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekkyzainularifin" alt="ekkyzainularifin" /></a> </p>
+<p align="center"> <a href="https://github.com/ekkyzainularifin"><img src="https://github-profile-trophy.vercel.app/?username=ekkyzainularifin" alt="ekkyzainularifin" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekkyzainularifin&" alt="ekkyzainularifin" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
